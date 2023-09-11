@@ -37,21 +37,21 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
+  {"desc1":"Standoff 2 offers a diverse range of maps and game modes to keep players engaged. Whether you're into classic team deathmatch, bomb defusal, or gun game modes, there's something for everyone. These varied game modes ensure that no two matches are the same, keeping the gameplay fresh and exciting. ",
    "photo1":"https://iili.io/HP8C9pe.jpg"},
-  {"desc2":"Online gaming has experienced significant growth and evolution in recent years, with numerous titles pushing the boundaries of technology and captivating players worldwide","photo2":"https://iili.io/HP8Cdhb.jpg"},
+  {"desc2":"The game features a vast arsenal of weapons, each with its own unique feel and handling. Players can customize their loadouts to suit their playstyle, allowing for strategic depth and personalization. The weapon skins and cosmetic items further enhance the customization options, letting players express their individuality","photo2":"https://iili.io/HP8Cdhb.jpg"},
   {"desc3":"Among these innovative games is Standoff110, an exceptional first-person shooter (FPS) that has revolutionized the genre","photo3":"https://iili.io/HP8CJTu.jpg"},
   {"desc4":"With its immersive gameplay, stunning graphics, and extensive multiplayer features, Standoff110 has quickly become a fan favorite and a hallmark of the online gaming community","photo4":"https://iili.io/HP8C2Qj.jpg"},
   {"desc5":"This article delves into the key aspects that make Standoff110 a remarkable gaming experience, exploring its gameplay mechanics, visual aesthetics, competitive features, and community engagement.","photo5":"https://iili.io/HP8Cf4V.png"},
-  {"descd":"Standoff110's gameplay mechanics are the backbone of its success. The game offers a seamless and responsive control system","photod":"https://iili.io/HP8CFCx.jpg"}
+  {"descd":"thriving and passionate community surrounds standoff 2 The developers actively engage with players through social media and in-game events, ensuring that player feedback is considered in ongoing updates. Regular updates, bug fixes, and new content additions keep the game fresh and exciting, fostering a loyal player base","photod":"https://iili.io/HP8CFCx.jpg"}
    ]
  
 }
